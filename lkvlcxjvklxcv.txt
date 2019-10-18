@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 fdgdfgdfgdfdececece
+=======
+<<<<<<< HEAD
+fdgdfgdfgdfdsfsdfsdf
+=======
+fdgdfgdfgdfdececece
+>>>>>>> master
+>>>>>>> Stashed changes
